@@ -28,5 +28,3 @@ All data regarding the reproducibility of this work can be found in this reposit
   - df_dataset_properties: dataset with all 15 properties analyzed in the Multiple Correspondence Analysis - MCA.
 
 To run the notebook XAI - IRT Notebook.ipynb, it is suggested to use Google Colab, for a better and faster execution of the tool.
-
-Note that to run XAI_Pred2Town.ipynb it will be necessary to use the file 'Pred2Town_Pre-processed_by_Orange_binary_class_with_metadata_clean.csv' in the 'data loading' session.
