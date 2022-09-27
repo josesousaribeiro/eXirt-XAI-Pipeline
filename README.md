@@ -27,8 +27,10 @@ All data regarding the reproducibility of this work can be found in this reposit
 
   - Cluster 1: all datasets, performance graphs, models and analyzes coming from cluster 1 data.
 
-  - XAI - IRT Notebook.ipynb: s all the source code used to execute the experiments presented in this research. It should be noted that this notebook is properly commented, documented and separated into sections for better understanding in case of an execution.
+  - eXirt - Notebook - v0.1.ipynb: all the source code used to execute the experiments presented in this research. It should be noted that this notebook is properly commented, documented and separated into sections for better understanding in case of an execution.
 
-  - df_dataset_properties: dataset with all 15 properties analyzed in the Multiple Correspondence Analysis - MCA.
+  - df_dataset_properties: dataset with all 15 properties analyzed in the Multiple Correspondence Analysis - MCA;
+  
+  - Analisys_of_Cluster_by_eXirt.ipynb: all analysis of item parameter values for the two clusters.
 
 To run the notebook XAI - IRT Notebook.ipynb, it is suggested to use Google Colab, for a better and faster execution of the tool.
