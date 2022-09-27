@@ -23,9 +23,9 @@ Explainable Artificial Intelligence - XAI, is a sub-area of ​​Machine Learni
 Description for execution:
 All data regarding the reproducibility of this work can be found in this repository.
 
-  - data cluster 0: all datasets, performance graphs, models and analyzes coming from cluster 0 data.
+  - Cluster 0: all datasets, performance graphs, models and analyzes coming from cluster 0 data.
 
-  - data cluster 1: all datasets, performance graphs, models and analyzes coming from cluster 1 data.
+  - Cluster 1: all datasets, performance graphs, models and analyzes coming from cluster 1 data.
 
   - XAI - IRT Notebook.ipynb: s all the source code used to execute the experiments presented in this research. It should be noted that this notebook is properly commented, documented and separated into sections for better understanding in case of an execution.
 
