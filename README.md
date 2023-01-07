@@ -31,6 +31,8 @@ All data regarding the reproducibility of this work can be found in this reposit
 
   - df_dataset_properties: dataset with all 15 properties analyzed in the Multiple Correspondence Analysis - MCA;
   
-  - Analisys_of_Cluster_by_eXirt.ipynb: all analysis of item parameter values for the two clusters.
+  - Analisys_of_Cluster_by_eXirt.ipynb: all analysis of item parameter values for the two clusters;
+  
+  - Just eXirt - Execution example.ipynb: simple execution of eXirt.
 
 To run the notebook XAI - IRT Notebook.ipynb, it is suggested to use Google Colab, for a better and faster execution of the tool.
