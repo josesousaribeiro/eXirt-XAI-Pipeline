@@ -23,6 +23,8 @@ Explainable Artificial Intelligence - XAI, is a sub-area of ​​Machine Learni
 Description for execution:
 All data regarding the reproducibility of this work can be found in this repository.
 
+  - **https://github.com/josesousaribeiro/eXirt:** eXirt distribution repository.
+  
   - **Cluster 0**: all datasets, performance graphs, models and analyzes coming from cluster 0 data.
 
   - **Cluster 1**: all datasets, performance graphs, models and analyzes coming from cluster 1 data.
