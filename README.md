@@ -24,15 +24,15 @@ Solutions based on tree-ensemble models represent a considerable alternative to 
 
 All data regarding the reproducibility of this work can be found in this repository.
   
-  - **workspace_cluster_0.zip**: all datasets, performance graphs, models and analyzes coming from cluster 0 data.
+  - **workspace_cluster_0.zip**: all datasets, performance graphs, models and analyzes coming from cluster 0;
 
-  - **workspace_cluster_1.zip**: all datasets, performance graphs, models and analyzes coming from cluster 1 data.
+  - **workspace_cluster_1.zip**: all datasets, performance graphs, models and analyzes coming from cluster 1;
 
-  - **workspace_cluster_2.zip**: all datasets, performance graphs, models and analyzes coming from cluster 2 data.
+  - **workspace_cluster_2.zip**: all datasets, performance graphs, models and analyzes coming from cluster 2;
 
-  - **workspace_cluster_3.zip**: all datasets, performance graphs, models and analyzes coming from cluster 3 data.
+  - **workspace_cluster_3.zip**: all datasets, performance graphs, models and analyzes coming from cluster 3;
 
-  - **eXirt - Pipeline - v0.3.2 - Remake Import Exirt - M1 a M4.ipynb**: all the source code used to execute the experiments presented in this research. It should be noted that this notebook is properly commented, documented and separated into sections for better understanding in case of an execution.
+  - **eXirt - Pipeline - v0.3.2 - Remake Import Exirt - M1 a M4.ipynb**: all the source code used to execute the experiments presented in this research. It should be noted that this notebook is properly commented, documented and separated into sections for better understanding in case of an execution;
 
   - **df_dataset_properties**: dataset with all 15 properties analyzed in the Multiple Correspondence Analysis - MCA;
 
