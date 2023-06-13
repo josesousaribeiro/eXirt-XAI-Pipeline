@@ -22,8 +22,6 @@ Solutions based on tree-ensemble models represent a considerable alternative to 
 
 Description for execution:
 All data regarding the reproducibility of this work can be found in this repository.
-
-  - **https://pypi.org/project/eXirt/:** eXirt distribution repository.
   
   - **Cluster 0**: all datasets, performance graphs, models and analyzes coming from cluster 0 data.
 
@@ -39,6 +37,8 @@ All data regarding the reproducibility of this work can be found in this reposit
 
   - **Analisys of Datasets by eXirt.ipynb**: all analysis of item parameter values for the specifics datasets;
   
-  - **eXirt - Simple execution.ipynb**: simple execution of eXirt.
+  - **eXirt - Simple execution.ipynb**: simple execution of eXirt;
+  
+  - **https://pypi.org/project/eXirt/:** eXirt distribution repository.
 
 To run the notebook XAI - IRT Notebook.ipynb, it is suggested to use Google Colab, for a better and faster execution of the tool.
