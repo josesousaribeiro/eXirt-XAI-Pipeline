@@ -24,13 +24,13 @@ Solutions based on tree-ensemble models represent a considerable alternative to 
 
 All data regarding the reproducibility of this work can be found in this repository.
   
-  - **Cluster 0**: all datasets, performance graphs, models and analyzes coming from cluster 0 data.
+  - **workspace_cluster_0.zip**: all datasets, performance graphs, models and analyzes coming from cluster 0 data.
 
-  - **Cluster 1**: all datasets, performance graphs, models and analyzes coming from cluster 1 data.
+  - **workspace_cluster_1.zip**: all datasets, performance graphs, models and analyzes coming from cluster 1 data.
 
-  - **Cluster 2**: all datasets, performance graphs, models and analyzes coming from cluster 2 data.
+  - **workspace_cluster_2.zip**: all datasets, performance graphs, models and analyzes coming from cluster 2 data.
 
-  - **Cluster 3**: all datasets, performance graphs, models and analyzes coming from cluster 3 data.
+  - **workspace_cluster_3.zip**: all datasets, performance graphs, models and analyzes coming from cluster 3 data.
 
   - **eXirt - Pipeline - v0.3.2 - Remake Import Exirt - M1 a M4.ipynb**: all the source code used to execute the experiments presented in this research. It should be noted that this notebook is properly commented, documented and separated into sections for better understanding in case of an execution.
 
