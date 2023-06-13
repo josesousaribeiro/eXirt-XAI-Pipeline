@@ -23,7 +23,7 @@ Solutions based on tree-ensemble models represent a considerable alternative to 
 Description for execution:
 All data regarding the reproducibility of this work can be found in this repository.
 
-  - **https://github.com/josesousaribeiro/eXirt:** eXirt distribution repository.
+  - **https://pypi.org/project/eXirt/:** eXirt distribution repository.
   
   - **Cluster 0**: all datasets, performance graphs, models and analyzes coming from cluster 0 data.
 
