@@ -24,7 +24,7 @@ Solutions based on tree-ensemble models represent a considerable alternative to 
 
 All data regarding the reproducibility of this work can be found in this repository.
   
-  - **workspace_cluster_0.zip**: all datasets, performance graphs, models and analyzes coming from cluster 0;
+  - [**workspace_cluster_0.zip**](https://github.com/josesousaribeiro/eXirt-XAI-Pipeline/blob/main/data/workspace_cluster_0.zip): all datasets, performance graphs, models and analyzes coming from cluster 0;
 
   - **workspace_cluster_1.zip**: all datasets, performance graphs, models and analyzes coming from cluster 1;
 
