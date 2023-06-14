@@ -51,4 +51,4 @@ All data regarding the reproducibility of this work can be found in this reposit
   - [**df_dataset_properties_binarized.csv**](https://github.com/josesousaribeiro/eXirt-XAI-Pipeline/blob/main/data/df_dataset_properties_binarized.csv): dataset binarized with all 15 properties analyzed in the Multiple Correspondence Analysis - MCA;
 
 
-To run the notebook XAI - IRT Notebook.ipynb, it is suggested to use Google Colab, for a better and faster execution of the tool.
+To run the ".ipynb", it is suggested to use Google Colab, for a better and faster execution of the tool.
