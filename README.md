@@ -24,22 +24,31 @@ Solutions based on tree-ensemble models represent a considerable alternative to 
 
 All data regarding the reproducibility of this work can be found in this repository.
   
+  - [**Supplementary Material Referring to the Illustrations.pdf**](https://github.com/josesousaribeiro/eXirt-XAI-Pipeline/blob/main/doc/Supplementary%20Material%20Referring%20to%20the%20Illustrations.pdf): supplementary material with more illustrations referring to the paper;
+  
   - [**workspace_cluster_0.zip**](https://github.com/josesousaribeiro/eXirt-XAI-Pipeline/blob/main/data/workspace_cluster_0.zip): all datasets, performance graphs, models and analyzes coming from cluster 0;
 
-  - **workspace_cluster_1.zip**: all datasets, performance graphs, models and analyzes coming from cluster 1;
+  - [**workspace_cluster_1.zip**](https://github.com/josesousaribeiro/eXirt-XAI-Pipeline/blob/main/data/workspace_cluster_1.zip): all datasets, performance graphs, models and analyzes coming from cluster 1;
 
-  - **workspace_cluster_2.zip**: all datasets, performance graphs, models and analyzes coming from cluster 2;
+  - [**workspace_cluster_2.zip**](https://github.com/josesousaribeiro/eXirt-XAI-Pipeline/blob/main/data/workspace_cluster_2.zip): all datasets, performance graphs, models and analyzes coming from cluster 2;
 
-  - **workspace_cluster_3.zip**: all datasets, performance graphs, models and analyzes coming from cluster 3;
+  - [**workspace_cluster_3.zip**](https://github.com/josesousaribeiro/eXirt-XAI-Pipeline/blob/main/data/workspace_cluster_3.zip): all datasets, performance graphs, models and analyzes coming from cluster 3;
 
-  - **eXirt - Pipeline - v0.3.2 - Remake Import Exirt - M1 a M4.ipynb**: all the source code used to execute the experiments presented in this research. It should be noted that this notebook is properly commented, documented and separated into sections for better understanding in case of an execution;
+  - [**eXirt_pipeline_v0_3_2_m1_to_m4.ipynb**](https://github.com/josesousaribeiro/eXirt-XAI-Pipeline/tree/main/code): all the source code used to execute the experiments presented in this research. It should be noted that this notebook is properly commented, documented and separated into sections for better understanding in case of an execution;
 
-  - **df_dataset_properties**: dataset with all 15 properties analyzed in the Multiple Correspondence Analysis - MCA;
-
-  - **Analisys of Datasets by eXirt.ipynb**: all analysis of item parameter values for the specifics datasets;
+  - [**eXirt_analisys_of_datasets.ipynb**](https://github.com/josesousaribeiro/eXirt-XAI-Pipeline/blob/main/code/eXirt_analisys_of_datasets.ipynb): all analysis of item parameter values for the specifics datasets;
   
-  - **eXirt - Simple execution.ipynb**: simple execution of eXirt;
+  - [**eXirt_simple_execution.ipynb**](https://github.com/josesousaribeiro/eXirt-XAI-Pipeline/blob/main/code/eXirt_simple_execution.ipynb): simple execution of eXirt;
+
+  - [**eXirt_simple_execution_import.ipynb**]([https://github.com/josesousaribeiro/eXirt-XAI-Pipeline/blob/main/code/eXirt_simple_execution.ipynb](https://github.com/josesousaribeiro/eXirt-XAI-Pipeline/blob/main/code/eXirt_simple_execution_import.ipynb)): simple execution of eXirt using import;
   
-  - **https://pypi.org/project/eXirt/:** eXirt distribution repository.
+  - [**https://pypi.org/project/eXirt/:**](https://pypi.org/project/eXirt/) python eXirt distribution repository;
+
+  - [**df_dataset_properties.csv**](https://github.com/josesousaribeiro/eXirt-XAI-Pipeline/blob/main/data/df_dataset_properties.csv): dataset with all 15 properties analyzed in the Multiple Correspondence Analysis - MCA;
+
+  - [**df_dataset_properties_norm.csv**](https://github.com/josesousaribeiro/eXirt-XAI-Pipeline/blob/main/data/df_dataset_properties_norm.csv): dataset normalized with all 15 properties analyzed in the Multiple Correspondence Analysis - MCA;
+
+  - [**df_dataset_properties_binarized.csv**](https://github.com/josesousaribeiro/eXirt-XAI-Pipeline/blob/main/data/df_dataset_properties_binarized.csv): dataset binarized with all 15 properties analyzed in the Multiple Correspondence Analysis - MCA;
+
 
 To run the notebook XAI - IRT Notebook.ipynb, it is suggested to use Google Colab, for a better and faster execution of the tool.
