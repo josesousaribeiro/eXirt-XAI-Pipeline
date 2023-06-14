@@ -34,7 +34,7 @@ All data regarding the reproducibility of this work can be found in this reposit
 
   - [**workspace_cluster_3.zip**](https://github.com/josesousaribeiro/eXirt-XAI-Pipeline/blob/main/data/workspace_cluster_3.zip): all datasets, performance graphs, models and analyzes coming from cluster 3;
 
-  - [**eXirt_pipeline_v0_3_2_m1_to_m4.ipynb**](https://github.com/josesousaribeiro/eXirt-XAI-Pipeline/tree/main/code): all the source code used to execute the experiments presented in this research. It should be noted that this notebook is properly commented, documented and separated into sections for better understanding in case of an execution;
+  - [**eXirt_pipeline_v0_3_2_m1_to_m4.ipynb**](https://github.com/josesousaribeiro/eXirt-XAI-Pipeline/blob/main/code/eXirt_pipeline_v0_3_2_m1_to_m4.ipynb): all the source code used to execute the experiments presented in this research. It should be noted that this notebook is properly commented, documented and separated into sections for better understanding in case of an execution;
 
   - [**eXirt_analisys_of_datasets.ipynb**](https://github.com/josesousaribeiro/eXirt-XAI-Pipeline/blob/main/code/eXirt_analisys_of_datasets.ipynb): all analysis of item parameter values for the specifics datasets;
   
