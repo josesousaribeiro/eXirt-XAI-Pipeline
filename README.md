@@ -40,7 +40,7 @@ All data regarding the reproducibility of this work can be found in this reposit
   
   - [**eXirt_simple_execution.ipynb**](https://github.com/josesousaribeiro/eXirt-XAI-Pipeline/blob/main/code/eXirt_simple_execution.ipynb): simple execution of eXirt;
 
-  - [**eXirt_simple_execution_import.ipynb**]([https://github.com/josesousaribeiro/eXirt-XAI-Pipeline/blob/main/code/eXirt_simple_execution.ipynb](https://github.com/josesousaribeiro/eXirt-XAI-Pipeline/blob/main/code/eXirt_simple_execution_import.ipynb)): simple execution of eXirt using import;
+  - [**eXirt_simple_execution_import.ipynb**](https://github.com/josesousaribeiro/eXirt-XAI-Pipeline/blob/main/code/eXirt_simple_execution_import.ipynb): simple execution of eXirt using import;
   
   - [**https://pypi.org/project/eXirt/:**](https://pypi.org/project/eXirt/) python eXirt distribution repository;
 
