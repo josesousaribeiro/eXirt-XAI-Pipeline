@@ -56,7 +56,7 @@ All data regarding the reproducibility of this work can be found in this reposit
 To run the ".ipynb", it is suggested to use Google Colab, for a better and faster execution of the tool.
 
 Cite this work:
-```latex
+```TeX
 @article{ribeiro4572173explanations,
   title={Explanations Based on Item Response Theory (Exirt): A Model-Specific Method to Explain Tree-Ensemble Model in Trust Perspective},
   author={Ribeiro Filho, Jos{\'e} de Sousa and Cardoso, Lucas Felipe Ferraro and Silva, Ra{\'\i}ssa Lorena Silva da and Carneiro, Nikolas Jorge Santiago and Santos, Vitor Cirilo Araujo and Alves, Ronnie Cley de Oliveira},
